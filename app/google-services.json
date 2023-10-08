@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338870000027",
+    "project_id": "tourapp-3f8e0",
+    "storage_bucket": "tourapp-3f8e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338870000027:android:a9a47911b9a32d0065693e",
+        "android_client_info": {
+          "package_name": "com.tufelmalik.tourapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPj7_zO57uv0FXkLhKkQCABgl5t5Oj7Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
